@@ -80,9 +80,8 @@ Apaixonada por qualidade de software, automação de testes e melhoria contínua
 
 ## 🌎 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](cynthya-do-carmo-747b4297)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](cynthya-do-carmo)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cynthyacs1@gmail.comL)
 
 ---
 
